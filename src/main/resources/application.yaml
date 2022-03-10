@@ -1,0 +1,6 @@
+feign:
+  client:
+    config:
+      theMealDbClient:
+        connectTimeout: 2000
+        readTimeout: 10000
