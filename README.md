@@ -1,12 +1,14 @@
 # Random Meal Generator
 
+![GitHub](https://img.shields.io/github/license/AnaBilecki/random-meal-generator)
+
 Este projeto é um exemplo de _backend_ para geração de receitas aleatórias utilizando Open Feign com Spring Boot consumindo a API [TheMealDB](https://www.themealdb.com/).
 
 Foi inspirado no desafio [Random Meal Generator](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Random-Meal-Generator.md) proposto no [App Ideas Colletion](https://github.com/florinpop17/app-ideas).  
 
 ## Tabela de conteúdos
 
-   * [Sobre](#lista-de-livros)
+   * [Sobre](#random-meal-generator)
    * [Tecnologias utilizadas](#tecnologias-utilizadas)
    * [Ferramentas utilizadas](#ferramentas-utilizadas)
    * [Dependências utilizadas](#dependências-utilizadas)
